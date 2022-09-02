@@ -1,6 +1,6 @@
 # CP04-IoT
 
-Nome dos alunos: João Victor Deziderio Chinelato
+Nome dos alunos: João Victor Deziderio Chinelato /
                  Nathan Pagliari Augusto
 
 Turma: 2TDSF
